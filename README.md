@@ -1,5 +1,7 @@
 # choo-gun-leveldb-test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zrrrzzt/choo-gun-leveldb-test.svg)](https://greenkeeper.io/)
+
 Test to make a happy family of [choo](https://choo.io), [gun](https://github.com/amark/gun) and levelDB ([gun-level](https://github.com/PsychoLlama/gun-level))
 
 It is a bit hacky, but it kind of works
