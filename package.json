@@ -17,7 +17,7 @@
     "gun": "0.8.0",
     "gun-level": "6.0.4",
     "level-browserify": "1.1.1",
-    "sheetify": "6.2.0",
+    "sheetify": "7.3.2",
     "tachyons": "4.9.1"
   },
   "devDependencies": {
