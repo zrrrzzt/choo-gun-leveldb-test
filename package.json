@@ -14,7 +14,7 @@
     "choo": "6.6.1",
     "choo-devtools": "2.3.3",
     "choo-service-worker": "2.3.1",
-    "gun": "0.8.0",
+    "gun": "0.9.994",
     "gun-level": "6.0.4",
     "level-browserify": "1.1.1",
     "sheetify": "6.2.0",
