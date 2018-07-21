@@ -18,7 +18,7 @@
     "gun-level": "6.0.4",
     "level-browserify": "2.0.0",
     "sheetify": "7.3.3",
-    "tachyons": "4.10.0"
+    "tachyons": "4.11.0"
   },
   "devDependencies": {
     "bankai": "9.14.0",
